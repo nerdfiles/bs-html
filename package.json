@@ -1,0 +1,14 @@
+{
+  "name": "bs-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "update": "pbpaste > index.md",
+    "build": "pandoc -H ./header.html --metadata title='bs html' index.md > index.html",
+		"publish": "surge . | sed -e 's/light-base.surge.sh/https:\\\/\\\/light-base.surge.sh/g' | urlview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL"
+}

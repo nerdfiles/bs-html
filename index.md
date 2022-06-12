@@ -7,4 +7,29 @@ recently i've discovered a bit of critique in webland. a veteran web developer j
 
 as with most things of this order, we hazard the performance of the critique:
 
-## 
+## www.devdrills.io/drills/frontend/form-validation
+
+---
+
+<img src="https://light-base.surge.sh/images/form-validation.png" alt="browse www.devdrills.io/drills/frontend/form-validation" />
+
+<!--
+
+[image:E4A17DA5-BE91-4335-8CFD-9E479D39AE4F-13414-00003B7D942E3E45/www.devdrills.io:drills:frontend:form-validation.png]
+
+-->
+
+---
+
+## jason knight's html
+
+apparently the industry wants whatever devdrills is bleating not html with any semantics (even for forms, let alone hypermedia factors):
+
+<img src="https://light-base.surge.sh/images/deathshadow.medium.com.png" alt="browse https://deathshadow.medium.com/" />
+
+<!--
+
+[image:39F0D727-B3DC-4F22-A904-C71705421F56-13414-00003B940D4E9EE5/Screen Shot 2022-06-11 at 20.22.45.png]
+
+
+-->
